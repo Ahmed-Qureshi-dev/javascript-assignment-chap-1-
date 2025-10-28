@@ -1,4 +1,4 @@
-/* From Uiverse.io by gharsh11032000 */
+
 body {
   background: linear-gradient(135deg, #1a1c20, #111212);
   height: 100vh;
@@ -8,7 +8,7 @@ body {
 
 /* Heading Text */
 body p {
-  color: #2196F3; /* Ferozi Blue color */
+  color: #2196F3; 
   display: flex;
   justify-content: center;
   text-align: center;
@@ -101,7 +101,7 @@ body p {
   opacity: 1;
 }
 
-/* ✅ Responsive Design for Phones */
+
 @media (max-width: 600px) {
   .head {
     flex-direction: column;
