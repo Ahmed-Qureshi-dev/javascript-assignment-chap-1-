@@ -1,4 +1,4 @@
-njjjj
+njjj
 document.querySelector(".btn-1").addEventListener("click", function() {
   alert("Welcome to my website!");
 });
